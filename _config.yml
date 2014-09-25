@@ -5,7 +5,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG Córdoba 2014"
+title: "GDG DevFest Season 2014"
 email: "devfest@gdg.org.ua"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/zeppelin"
@@ -15,16 +15,16 @@ googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerName: "GDG Cordoba"
+organizerAlternateName: "Google Developer Group Cordoba"
+organizerDescription: "Grupo para compartir, discutir y disfrutar de las tecnologías Google en Córdoba (España)"
+organizerEmail: "gdgcordoba@gmail.com"
+organizerLogo: "/img/seo/GDG_CORDOBA.svg"
+organizerLink: "https://plus.google.com/106302567584201009963/about"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+twitterAccount: "@GDGCordobaESP"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -40,13 +40,13 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
+ - {permalink: "/team/", text: "Equipo"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Inscribete como ponente"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Inscribete como ponente"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -114,9 +114,9 @@ twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+organizersTitle: "Organización"
+partnersTitle: "Patrocinadores"
+partnersC4sponsorsButton: "Patrocina el evento"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -166,9 +166,8 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://plus.google.com/106302567584201009963/about", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=GDGCordobaESP", icon: "twitter"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
@@ -179,7 +178,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:gdgcordoba@gmail.com", text: "gdgcordoba@gmail.com"}
  -
   title: "FAQ"
   links:
@@ -188,14 +187,14 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "devfestcordoba"
 
 # Speakers List Block
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+teamBlockTitle: "Sobre nosotros"
+aboutUs: "Los servicios de Google se han convertido en sinónimos con cosas simples de internet. El número de innovaciones tecnológicas e industrias en las que Google está creando nuevos productos es enorme. Es muy dificil conocerlos todos y por esto es que la gente ha comenzado a reunirse en pequeños grupos locales y así compartir su experiencia. Después, estos nombres han recibido el nombre de 'Google Developers Groups'. Los GDGs pueden tomar distintas formas -- desde solo unas personas visualizando unos cuantos vídeos, a grandes reuniones con demos, charlas tecnológicas, hackathons y conferencias."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
