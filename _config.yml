@@ -23,7 +23,7 @@ organizerLogo: "/img/seo/GDG_CORDOBA.svg"
 organizerLink: "https://plus.google.com/106302567584201009963/about"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "evento, gdg, devfest, google, programming, android, wear, developers"
 twitterAccount: "@GDGCordobaESP"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -50,7 +50,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout>2014"
+heroTitle: "GDG DevFest <typeout> 2014"
 eventDate: "31 de Octubre, 2014"
 typeoutTextValues: '"", "Córdoba", "Android", "Android Wear"'
 typeoutFallback: "Córdoba"
@@ -102,13 +102,13 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "coSfera"
+venueFeatures: ["Centro de Córdoba", "Espacio de coworking", "370 m2"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Hashtag"
-twitterHashTag: "devfest"
+twitterHashTag: "DevFestCordoba"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
