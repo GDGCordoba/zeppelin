@@ -44,18 +44,18 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logística"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "/#tickets", text: "Entrada Gratuita"}
+ - {link: "http://gdgdevfestcordoba2014.eventbrite.es/", text: "Entrada Gratuita"}
 rightNavigationButtons:
- - {link: "/#tickets", text: "Entrada Gratuita"}
+ - {link: "http://gdgdevfestcordoba2014.eventbrite.es/", text: "Entrada Gratuita"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout>2014"
 eventDate: "31 de Octubre, 2014"
 typeoutTextValues: '"", "Córdoba", "Android", "Android Wear"'
-typeoutFallback: "Season"
+typeoutFallback: "Córdoba"
 heroButtons:
- - {permalink: "/#tickets", text: "Entrada Gratuita"}
+ - {link: "http://gdgdevfestcordoba2014.eventbrite.es/", text: "Entrada Gratuita"}
 
 # About Block
 aboutTitle: "Acerca de GDG DevFest Córdoba 2014"
