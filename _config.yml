@@ -44,22 +44,21 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logística"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Inscribirse como ponente"}
+ - {link: "/#tickets", text: "Entrada Gratuita"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Inscribirse como ponente"}
+ - {link: "/#tickets", text: "Entrada Gratuita"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest<typeout>2014"
+heroTitle: "GDG DevFest <typeout>2014"
 eventDate: "31 de Octubre, 2014"
 typeoutTextValues: '"", "Córdoba", "Android", "Android Wear"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Inscribirse como ponente"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/#tickets", text: "Entrada Gratuita"}
 
 # About Block
-aboutTitle: "Acerca de GDG DevFest"
+aboutTitle: "Acerca de GDG DevFest Córdoba 2014"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lot's of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -68,10 +67,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "150", specialCharacter: "+", info: "asistentes"}
+ - {count: "5", specialCharacter: "+", info: "horas"}
+ - {count: "3", specialCharacter: "+", info: "ponentes"}
 
 # Latest News Block
 latestNewsTitle: "Últimas noticias"
@@ -79,8 +77,8 @@ latestNewsTitle: "Últimas noticias"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "Ponentes"
+rockstarSpeakersButtonText: "Ver todos los ponentes"
 
 # Location Block
 locationBlockTitle: "Localización"
@@ -99,7 +97,7 @@ mapCenterCoordinates: "37.8877222, -4.7845425"
 mapMobileCenterCoordinates: "37.8877222, -4.7845425"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Localización"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
@@ -120,12 +118,12 @@ partnersC4sponsorsButton: "Patrocina el evento"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Suscríbete a las actualizaciones"
+subscribeTitle: "Suscribirse"
 subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
+ticketsTitle: "Entrada"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
@@ -171,12 +169,12 @@ socialLinks:
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
-  title: "Links"
+  title: "Enlaces"
   links:
    - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
-  title: "Contacts"
+  title: "Contacto"
   links:
    - {link: "mailto:gdgcordoba@gmail.com", text: "gdgcordoba@gmail.com"}
  -
