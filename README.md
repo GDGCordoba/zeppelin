@@ -1,4 +1,4 @@
-# Project Zeppelin / GDG DevFest 2014 site template
+# Forked Project Zeppelin / GDG DevFest Córdoba 2014 site template
 
 ### About 
 Project Zeppelin allows you to setup awesome GDG DevFest site in 5 minutes. 
@@ -7,7 +7,7 @@ Project is builded on top of [Jekyll](http://jekyllrb.com/) - simple, blog-aware
 
 Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team.
 
-### Live demo http://gdg-x.github.io/zeppelin/
+### Live demo http://gdgcordoba.github.io/zeppelin/
 
 ### Features
 * Easy to setup
