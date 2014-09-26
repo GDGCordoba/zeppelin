@@ -1,5 +1,5 @@
 - 
   group: "Organiza"
   elements: 
-    - {name: "GDG Córdoba", description: "GDG Cordoba - Grupo para compartir, discutir y disfrutar de las tecnologías Google en Córdoba (España) ", link: "https://plus.google.com/106302567584201009963/about", imageUrl: "GDGCordoba.png"}
+    - {name: "GDG Córdoba", description: "GDG Cordoba - Grupo para compartir, discutir y disfrutar de las tecnologías Google en Córdoba (España) ", link: "https://plus.google.com/106302567584201009963/about", imageUrl: "gdg-cordoba.svg"}
 - 
