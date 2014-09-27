@@ -1,44 +1,71 @@
 - 
   id: 0
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Juanra"
+  surname: "Palomino"
+  title: "Organizador"
+  thumbnailUrl: juanra.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/116440339882569753169/about"}
+    - {name: "twitter", link: "https://twitter.com/juanrajarote"}
 - 
   id: 1
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  company: "Nravo, GDG Lviv"
-  title: "Team Lead, Unity 3D Developer"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Juanfra"
+  surname: "Moreno"
+  title: "Organizador"
+  thumbnailUrl: juanfra.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: "https://google.com/+Juanframoreno"}
+    - {name: "twitter", link: "https://twitter.com/juanfra25f"}
 - 
+
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  company: "ELEKS, GDG Lviv"
-  title: "R&D Engineer"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Daniel"
+  surname: "Luque"
+  title: "Colaborador"
+  thumbnailUrl: dani.jpg
+  subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "google-plus", link: "https://plus.google.com/103649111726048046145"}
+    - {name: "twitter", link: "https://twitter.com/DaniLuque20"}
+
 - 
   id: 3
-  name: "Oleh"
-  surname: "Zasadnyy"
-  company: "EPAM Systems, GDG Lviv"
-  title: "Junior Software Engineer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Gonzalo"
+  surname: "Toledano"
+  company: "GDG Cordoba"
+  title: "Android Developer"
+  thumbnailUrl: gonzalo.jpg
+  rockstar: false
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "google-plus", link: "https://plus.google.com/+GonzaloToledano/about"}
+    - {name: "twitter", link: "https://twitter.com/gnzlt"}
+
+- 
+  id: 4
+  name: "Leticia"
+  surname: "Capelo"
+  company: "GDG Cordoba"
+  title: "Android Developer"
+  thumbnailUrl: leti.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+LeticiaCapelo/about"}
+    - {name: "twitter", link: "https://twitter.com/letixmix"}
+
+-
+  id: 5
+  name: "David"
+  surname: "Luque"
+  company: "GDG Cordoba"
+  title: "Android Developer"
+  thumbnailUrl: david.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/113933912756820917688/about"}
+    - {name: "twitter", link: "https://twitter.com/twitdavids"}

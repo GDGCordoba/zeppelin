@@ -11,6 +11,6 @@ En esta entrada queremos informaros sobre un evento que estamos realizando desde
 
 Google nos ha dado la oportunidad de realizar un evento a nivel local y en Córdoba lo hemos hecho. Pues sí, has leído bien, el día 31 de Octubre se llevará a cabo un hackathon con la temática de Android.
 
-Si quieres más info, sólo tienes que entrar a la web de este [devfest] (cordoba.gdgdevfest.com)
+Si quieres más info, sólo tienes que entrar a la web de este [DevFest](http://cordoba.gdgdevfest.com)
 
 Y si lo que quieres es apuntarte, ¡pronto lo anunciaremos!

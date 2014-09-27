@@ -49,7 +49,7 @@ rightNavigationButtons:
  - {link: "http://gdgdevfestcordoba2014.eventbrite.es/", text: "Entrada Gratuita"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "templo.jpg"
 heroTitle: "GDG DevFest <typeout> 2014"
 eventDate: "31 de Octubre, 2014"
 typeoutTextValues: '"", "Córdoba", "Android", "Android Wear"'
@@ -60,9 +60,9 @@ heroButtons:
 # About Block
 aboutTitle: "Acerca de GDG DevFest Córdoba 2014"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lot's of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day free-style hackaton! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
+ #- {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lot's of fun!" }
+ #- {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Hackathon", image: "hackathon.jpg", text: "¡Pasa una tarde en una hackathon estilo lubre! ¿Quieres algo de trabajao en equipo un jueves? ¡Trae a tus compañeros y participa en nuestro hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -109,7 +109,7 @@ venueFeatures: ["Espacio de coworking", "Centro de Córdoba", "370 m2"]
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Hashtag"
 twitterHashTag: "DevFestCordoba"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
+#twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
 organizersTitle: "Organización"
@@ -166,7 +166,7 @@ ticketsOffers:
 socialLinks:
  - {link: "https://plus.google.com/106302567584201009963/about", icon: "google-plus"}
  - {link: "https://twitter.com/intent/user?screen_name=GDGCordobaESP", icon: "twitter"}
- - {permalink: "/feed.xml", icon: "rss"}
+ #- {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Enlaces"
@@ -180,7 +180,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/cod/", text: "Código de conducta"}
 
 # Blog
 blogTitle: "Últimas noticias"
@@ -192,7 +192,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "Sobre nosotros"
-aboutUs: "Los servicios de Google se han convertido en sinónimos con cosas simples de internet. El número de innovaciones tecnológicas e industrias en las que Google está creando nuevos productos es enorme. Es muy dificil conocerlos todos y por esto es que la gente ha comenzado a reunirse en pequeños grupos locales y así compartir su experiencia. Después, estos nombres han recibido el nombre de 'Google Developers Groups'. Los GDGs pueden tomar distintas formas -- desde solo unas personas visualizando unos cuantos vídeos, a grandes reuniones con demos, charlas tecnológicas, hackathons y conferencias."
+aboutUs: "Los servicios de Google se han convertido en sinónimos del internet de las cosas. El número de innovaciones tecnológicas e industrias en las que Google está creando nuevos productos es enorme. Es muy dificil conocerlos todos y por esto es que la gente ha comenzado a reunirse en pequeños grupos locales y así compartir su experiencia. Después, estos nombres han recibido el nombre de 'Google Developers Groups'. Los GDGs pueden tomar distintas formas -- desde solo unas personas visualizando unos cuantos vídeos, a grandes reuniones con demos, charlas tecnológicas, hackathons y conferencias."
 
 # Logistics Find Way Block
 findWayTitle: "¿Cómo llegar?"
@@ -243,22 +243,22 @@ hackathonTitle: "Hackathon"
 enableHackathon: true
 
 # Hackathon About Block
-aboutHackathonTitle: "Meet our themes"
+aboutHackathonTitle: "Nuestra temática"
 hackathonRows:
- - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
- - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
- - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
+ - {title: "Android", image: "android.jpg", details: "El sistema operativo para móviles más famoso del mundo. Android está instalado en más mil millones de teléfonos y tablets de todo el mundo. Es personalizable y fácil de usar, y como está desarrollado por Google, los teléfonos y tablets Android funcionan a la perfección con tus aplicaciones favoritas de Google."}
+ - {title: "Android Wear", image: "hackathon-0.png", details: "Información útil cuando más la necesitas. Android Wear organiza tu información, te sugiere lo que necesitas y te lo muestra antes de que lo pidas. Consulta los mensajes de tus amigos, notificaciones de reuniones e información meteorológica actualizada de un vistazo. Solo tienes que decir 'OK Google'. Responde mensajes, chats y correos electrónicos por voz. Pregunta cosas como '¿Lloverá este fin de semana?', '¿Cuánta gente hay en Londres?'' o '¿Cómo llegar a Palacio de Deportes?' y obtén respuestas sin rodeos. Haz un seguimiento de tus objetivos con resúmenes diarios que incluyen un recuento de pasos y las pulsaciones."}
+ - {title: "Android TV", image: "world-of-content.jpg", details: "'Disponible próximamente' Esto es lo que podemos leer si accedemos a la web de Android TV. Aunque google presentó este sistema, su sdk aún no está completo y sólo podemos acceder a una preview. Aunque Google promete que con sus servicios podremos ver series del momento, clásicos del cine y vídeos virales desde Google Play, YouTube y nuestras aplicaciones favoritas. Además, los juegos de Android lucirán increíblemente bien en tu HDTV y serán aún más divertidos con un mando de juegos."}
 
 # Hackathon Judges Block
 judgesImage: "judges.jpg"
 judgesTitle: "Judges"
 
 # Hackathon Prizes Block
-prizesTitle: "Prizes"
-prizes:
- - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
- - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
- - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
+#prizesTitle: "Prizes"
+#prizes:
+# - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
+# - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
+# - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
 
 # Hackathon Location Block
 hackathonLocationBlockTitle: "Localización"
