@@ -103,7 +103,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "coSfera"
-venueFeatures: ["Centro de Córdoba", "Espacio de coworking", "370 m2"]
+venueFeatures: ["Espacio de coworking", "Centro de Córdoba", "370 m2"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -118,7 +118,7 @@ partnersC4sponsorsButton: "Patrocina el evento"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Suscribirse"
+subscribeTitle: "Suscríbete"
 subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 

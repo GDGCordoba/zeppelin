@@ -20,7 +20,7 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+Juanframoreno/about"}
+    - {name: "google-plus", link: "https://google.com/+Juanframoreno"}
     - {name: "twitter", link: "https://twitter.com/juanfra25f"}
 
 - 
@@ -33,27 +33,36 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+GonzaloToledano/about"}
+    - {name: "google-plus", link: "https://plus.google.com/+GonzaloToledano"}
     - {name: "twitter", link: "https://twitter.com/gnzlt"}
 - 
 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
+  id: 3
+  name: "Daniel"
+  surname: "Luque"
+  title: "Colaborador"
+  thumbnailUrl: dani.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: "https://plus.google.com/103649111726048046145"}
+    - {name: "twitter", link: "https://twitter.com/DaniLuque20"}
 - 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
+  id: 4
+  name: "Leticia"
+  surname: "Capelo"
+  title: "Colaborador"
+  thumbnailUrl: leti.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/+LeticiaCapelo"}
+    - {name: "twitter", link: "https://twitter.com/letixmix"}
+- 
+  id: 5
+  name: "David"
+  surname: "Luque"
+  title: "Colaborador"
+  thumbnailUrl: david.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/113933912756820917688"}
+    - {name: "twitter", link: "https://twitter.com/TwitDavids"}
