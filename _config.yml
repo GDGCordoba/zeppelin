@@ -41,7 +41,6 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Equipo"}
- - {permalink: "/logistics/", text: "Logística"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "http://gdgdevfestcordoba2014.eventbrite.es/", text: "Entrada Gratuita"}

@@ -22,7 +22,6 @@
   social: 
     - {name: "google-plus", link: "https://google.com/+Juanframoreno"}
     - {name: "twitter", link: "https://twitter.com/juanfra25f"}
-
 - 
   id: 2
   name: "Gonzalo"
@@ -36,7 +35,6 @@
     - {name: "google-plus", link: "https://plus.google.com/+GonzaloToledano"}
     - {name: "twitter", link: "https://twitter.com/gnzlt"}
 - 
-
   id: 3
   name: "Daniel"
   surname: "Luque"
@@ -66,3 +64,23 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/113933912756820917688"}
     - {name: "twitter", link: "https://twitter.com/TwitDavids"}
+- 
+  id: 6
+  name: "Alberto"
+  surname: "Gallego"
+  title: "Colaborador"
+  thumbnailUrl: alberto.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+AlbertoGallegoCastro"}
+    - {name: "twitter", link: "https://twitter.com/AlbGC_"}
+- 
+  id: 7
+  name: "Miguel"
+  surname: "Calero"
+  title: "Colaborador"
+  thumbnailUrl: miguel.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MiguelCaleroFernandez"}
+    - {name: "twitter", link: "https://twitter.com/miguelcalero"}
