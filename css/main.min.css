@@ -7,3 +7,11 @@ nav li a {
 	font-size: 14px;
 	font-weight: bold;
 }
+
+.footer h5 {
+	font-weight: 300;
+}
+
+.subscribe .email {
+	width: 98%;
+}
