@@ -61,7 +61,7 @@ aboutTitle: "Acerca de GDG DevFest Córdoba 2014"
 aboutBlock:
  #- {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lot's of fun!" }
  #- {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "¡Pasa una tarde en una hackathon estilo lubre! ¿Quieres algo de trabajao en equipo un jueves? ¡Trae a tus compañeros y participa en nuestro hackathon!" }
+ - {title: "Hackathon", image: "hackathon.jpg", text: "¡Pasa una tarde en una hackathon estilo libre! ¿Quieres algo de trabajao en equipo un jueves? ¡Trae a tus compañeros y participa en nuestro hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -117,49 +117,12 @@ partnersC4sponsorsButton: "Patrocina el evento"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Suscríbete"
+subscribeTitle: "Inscribete"
 subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Entrada"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
-ticketsOffers:
- -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
- -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
+
 
 # Footer
 socialLinks:
@@ -205,37 +168,7 @@ logisticsMapCenterCoordinates: "37.8877222, -4.7845425"
 logisticsMapMobileCenterCoordinates: "37.8877222, -4.7845425"
 
 # Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
-directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
-directionDetailsWideCards: 
- -
-  title: "Questions?"
-  subCards:
-   -
-    title: "Hotels"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   - 
-    title: "Registration"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+
 
 # Hackathon
 hackathonTitle: "Hackathon"
@@ -244,7 +177,7 @@ enableHackathon: true
 # Hackathon About Block
 aboutHackathonTitle: "Nuestra temática"
 hackathonRows:
- - {title: "Android", image: "android.jpg", details: "El sistema operativo para móviles más famoso del mundo. Android está instalado en más mil millones de teléfonos y tablets de todo el mundo. Es personalizable y fácil de usar, y como está desarrollado por Google, los teléfonos y tablets Android funcionan a la perfección con tus aplicaciones favoritas de Google."}
+ - {title: "Android", image: "hackathon-android.jpg", details: "El sistema operativo para móviles más famoso del mundo. Android está instalado en más mil millones de teléfonos y tablets de todo el mundo. Es personalizable y fácil de usar, y como está desarrollado por Google, los teléfonos y tablets Android funcionan a la perfección con tus aplicaciones favoritas de Google."}
  - {title: "Android Wear", image: "hackathon-0.png", details: "Información útil cuando más la necesitas. Android Wear organiza tu información, te sugiere lo que necesitas y te lo muestra antes de que lo pidas. Consulta los mensajes de tus amigos, notificaciones de reuniones e información meteorológica actualizada de un vistazo. Solo tienes que decir 'OK Google'. Responde mensajes, chats y correos electrónicos por voz. Pregunta cosas como '¿Lloverá este fin de semana?', '¿Cuánta gente hay en Londres?'' o '¿Cómo llegar a Palacio de Deportes?' y obtén respuestas sin rodeos. Haz un seguimiento de tus objetivos con resúmenes diarios que incluyen un recuento de pasos y las pulsaciones."}
  - {title: "Android TV", image: "world-of-content.jpg", details: "'Disponible próximamente' Esto es lo que podemos leer si accedemos a la web de Android TV. Aunque google presentó este sistema, su sdk aún no está completo y sólo podemos acceder a una preview. Aunque Google promete que con sus servicios podremos ver series del momento, clásicos del cine y vídeos virales desde Google Play, YouTube y nuestras aplicaciones favoritas. Además, los juegos de Android lucirán increíblemente bien en tu HDTV y serán aún más divertidos con un mando de juegos."}
 

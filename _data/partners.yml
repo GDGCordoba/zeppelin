@@ -2,7 +2,7 @@
   group: "Diamante"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Cordoba", description: "GDG Lviv - Open and volunteer geek community", link: "https://plus.google.com/106302567584201009963/about", imageUrl: "gdg-cordoba.svg"}
+    - {name: "GDG Cordoba", description: "GDG Lviv - Open and volunteer geek community", link: "https://plus.google.com/106302567584201009963/about", imageUrl: "GDG-cordoba.png"}
 - 
   group: "Oro"
   elements: 
