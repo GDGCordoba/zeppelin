@@ -1,30 +1,52 @@
 -
   id: 503
-  title: "Cena"
+  title: "Pizzas Time!"
   place: "coSfera"
+  service: true
+
+-
+  id: 603
+  title: "Acreditaciones"
+  place: "Cosfera"
   service: true
 -
   id: 001
-  title: "Introducción a Android"
-  description: "Introducción a los temas a tratar durante toda la hackathon, incluyendo temas como Android, Android Wear y Android TV. Además, se realizará una demo con un smartwatch con Android Wear."
-  subtype: presentation
-  speakers: [3, 8, 9]
-  language: es
-  complexity: "Básica"
--
-  id: 002
-  title: "Hackathon"
-  description: "En esta actividad se procederá a por grupos o individualmente se realicen app teniendo en cuenta la temática del devfest. Será necesario seguir las pautas de diseño vistas en la presentación. "
+  title: "Charlas"
+  description: "Introducción a los temas a tratar durante todo el devfest, incluyendo temas como Google Cloud EndPoints, Ionic, Gradle..."
   subtype: presentation
   #speakers: 
   language: es
   complexity: "Intermedia"
 
--
-  id: 003
-  title: "Premios"
-  description: "El jurado pasará a deliverar entre todas las opciones presentadas. Se tendrán en cuenta características como diseño, funcionalidad, innovación... Después, se procederá a la entrega de premios."
-  subtype: presentation
-  speakers: [0,1]
+- 
+  id: 002
+  title: "Chromecast"
+  description: "Taller enfocado al desarrollo de herramientas para Chromecast, utilizando lenguajes como JavaScript."
+  subtype: workshop
+  #speakers: [] Fernando?
   language: es
   complexity: "Intermedia"
+
+-
+  id: 003
+  title: "Design Sprint"
+  description: "En esta actividad se empleará el método 'Design Sprint' por grupos o individualmente para desarrollar ideas, llegando incluso a un prototipado siguiendo un patrón de necesidades. "
+  subtype: workshop
+  #speakers: 
+  language: es
+  complexity: "Básica"
+
+-
+  id: 703
+  title: "Premios"
+  place: "CoSfera"
+  service: true
+
+- 
+  id: 803
+  title: "Investiga"
+  description: "¿En este track tendrás a tu alcance varios dispositivos para descubrir, analizar y probar!"
+  subtype: workshop
+  #speakers: 
+  language: es
+  complexity: "Básica"
