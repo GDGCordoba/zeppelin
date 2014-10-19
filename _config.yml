@@ -30,8 +30,8 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "https://docs.google.com/a/cosfera.es/document/d/1CZx5yEhfqFHqC5lB2DVwfK8k1nSq9_Of1NNCqdHuvW8/edit?usp=sharing"
+c4sponsorsUrl: "https://docs.google.com/a/cosfera.es/document/d/1CZx5yEhfqFHqC5lB2DVwfK8k1nSq9_Of1NNCqdHuvW8/edit?usp=sharing"
 
 
 # Navigation
@@ -41,17 +41,17 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Equipo"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/hackathon/", text: "Sprint Design"}
 bottomNavigationLinks:
- - {link: "http://gdgdevfestcordoba2014.eventbrite.es/", text: "Entradas disponibles próximamente"}
+ - {link: "http://gdgdevfestcordoba2014.eventbrite.es/", text: "Entrada Gratuitas"}
 rightNavigationButtons:
- - {link: "http://gdgdevfestcordoba2014.eventbrite.es/", text: "Entradas disponibles próximamente"}
+ - {link: "http://gdgdevfestcordoba2014.eventbrite.es/", text: "Entrada Gratuitas"}
 
 # Hero Block
 heroImage: "mezquita.jpg"
 heroTitle: "GDG DevFest <typeout> 2014"
 eventDate: "31 de Octubre, 2014"
-typeoutTextValues: '"", "Córdoba", "Android", "Android Wear"'
+typeoutTextValues: '"", "Córdoba", "Android", "Android Wear", "Chromecast"'
 typeoutFallback: "Córdoba"
 heroButtons:
  - {link: "http://gdgdevfestcordoba2014.eventbrite.es/", text: "Entradas disponibles próximamente"}
@@ -61,13 +61,13 @@ aboutTitle: "Acerca de GDG DevFest Córdoba 2014"
 aboutBlock:
  #- {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lot's of fun!" }
  #- {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "¡Pasa una tarde en una hackathon estilo libre! ¿Quieres algo de trabajo en equipo un jueves? ¡Trae a tus compañeros y participa en nuestro hackathon!" }
+ - {title: "Sprint Design", image: "hackathon.jpg", text: "¡Pasa una tarde en una hackathon estilo libre! ¿Quieres algo de trabajo en equipo un jueves? ¡Trae a tus compañeros y participa en nuestro diseño Sprint!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "150", specialCharacter: "+", info: "asistentes"}
- - {count: "5", specialCharacter: "+", info: "horas"}
+ - {count: "7", specialCharacter: "+", info: "horas"}
  - {count: "3", specialCharacter: "+", info: "ponentes"}
 
 # Latest News Block
@@ -75,7 +75,7 @@ latestNewsTitle: "Últimas noticias"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 6
 rockstarSpeakersTitle: "Ponentes"
 rockstarSpeakersButtonText: "Ver todos los ponentes"
 
@@ -171,7 +171,7 @@ logisticsMapMobileCenterCoordinates: "37.8877222, -4.7845425"
 
 
 # Hackathon
-hackathonTitle: "Hackathon"
+hackathonTitle: "Sprint Design"
 enableHackathon: true
 
 # Hackathon About Block
