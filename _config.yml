@@ -23,7 +23,7 @@ organizerLogo: "/img/seo/GDG_CORDOBA.svg"
 organizerLink: "https://plus.google.com/106302567584201009963/about"
 
 # Head
-metaKeywords: "evento, gdg, devfest, google, programming, android, wear, developers"
+metaKeywords: "evento, gdg, devfest, google, programming, android, wear, developers, chromecast"
 twitterAccount: "@GDGCordobaESP"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -43,9 +43,9 @@ navigationLinks:
  - {permalink: "/team/", text: "Equipo"}
  - {permalink: "/hackathon/", text: "Sprint Design"}
 bottomNavigationLinks:
- - {link: "http://gdgdevfestcordoba2014.eventbrite.es/", text: "Entrada Gratuitas"}
+ - {link: "http://gdgdevfestcordoba2014.eventbrite.es/", text: "Entradas Gratuitas"}
 rightNavigationButtons:
- - {link: "http://gdgdevfestcordoba2014.eventbrite.es/", text: "Entrada Gratuitas"}
+ - {link: "http://gdgdevfestcordoba2014.eventbrite.es/", text: "Entradas Gratuitas"}
 
 # Hero Block
 heroImage: "mezquita.jpg"
@@ -178,7 +178,7 @@ enableHackathon: true
 aboutHackathonTitle: "Nuestra temática"
 hackathonRows:
  - {title: "Android", image: "hackathon-android.jpg", details: "El sistema operativo para móviles más famoso del mundo. Android está instalado en más mil millones de teléfonos y tablets de todo el mundo. Es personalizable y fácil de usar, y como está desarrollado por Google, los teléfonos y tablets Android funcionan a la perfección con tus aplicaciones favoritas de Google."}
- - {title: "Chromecast", image: "hackathon-0.png", details: "Información útil cuando más la necesitas. Android Wear organiza tu información, te sugiere lo que necesitas y te lo muestra antes de que lo pidas. Consulta los mensajes de tus amigos, notificaciones de reuniones e información meteorológica actualizada de un vistazo. Solo tienes que decir 'OK Google'. Responde mensajes, chats y correos electrónicos por voz. Pregunta cosas como '¿Lloverá este fin de semana?', '¿Cuánta gente hay en Londres?'' o '¿Cómo llegar a Palacio de Deportes?' y obtén respuestas sin rodeos. Haz un seguimiento de tus objetivos con resúmenes diarios que incluyen un recuento de pasos y las pulsaciones."}
+ - {title: "Android Wear", image: "hackathon-0.png", details: "Información útil cuando más la necesitas. Android Wear organiza tu información, te sugiere lo que necesitas y te lo muestra antes de que lo pidas. Consulta los mensajes de tus amigos, notificaciones de reuniones e información meteorológica actualizada de un vistazo. Solo tienes que decir 'OK Google'. Responde mensajes, chats y correos electrónicos por voz. Pregunta cosas como '¿Lloverá este fin de semana?', '¿Cuánta gente hay en Londres?'' o '¿Cómo llegar a Palacio de Deportes?' y obtén respuestas sin rodeos. Haz un seguimiento de tus objetivos con resúmenes diarios que incluyen un recuento de pasos y las pulsaciones."}
 # - {title: "", image: "world-of-content.jpg", details: "'Disponible próximamente' Esto es lo que podemos leer si accedemos a la web de Android TV. Aunque google presentó este sistema, su sdk aún no está completo y sólo podemos acceder a una preview. Aunque Google promete que con sus servicios podremos ver series del momento, clásicos del cine y vídeos virales desde Google Play, YouTube y nuestras aplicaciones favoritas. Además, los juegos de Android lucirán increíblemente bien en tu HDTV y serán aún más divertidos con un mando de juegos."}
 
 # Hackathon Judges Block
