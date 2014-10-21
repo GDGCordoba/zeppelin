@@ -69,3 +69,15 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/113933912756820917688/about"}
     - {name: "twitter", link: "https://twitter.com/twitdavids"}
+
+-
+  id: 6
+  name: "Alberto"
+  surname: "Gallego"
+  company: "GDG Cordoba"
+  title: "Frontend Developer"
+  thumbnailUrl: alberto.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+AlbertoGallegoCastro/"}
+    - {name: "twitter", link: "https://twitter.com/albgc_"}
